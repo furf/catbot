@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+#pad {
+  background: #000;
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+#thumb {
+  background: #f00;
+  width: 80px;
+  height: 80px;
+  border-radius: 100px;
+  box-shadow: 0 0 15px 15px #f00;
+}
